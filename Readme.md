@@ -9,4 +9,4 @@ In line 12 I put the necessary formula to calculate the IMC, and in line 13 I pu
 to make the body mass index and in line 14 I print a message per screen that informs the user what weight
 he is in.
 
-And finally, from line 16 to line 31 I explain how I did to extract each weight category.
+And finally, from line 16 to line 31 I explain how I did to extract each weight category..
